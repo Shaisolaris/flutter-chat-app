@@ -1,4 +1,3 @@
-import 'data/demo_data.dart';
 import 'package:flutter/material.dart';
 import 'providers/chat_provider.dart';
 import 'screens/conversation_list_screen.dart';
