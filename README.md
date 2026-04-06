@@ -1,5 +1,7 @@
 # flutter-chat-app
 
+![CI](https://github.com/Shaisolaris/flutter-chat-app/actions/workflows/ci.yml/badge.svg)
+
 Flutter real-time chat app with conversation list, message history, typing indicators, online presence, read receipts, file sharing indicators, auto-reply simulation, pinned conversations, search, and message grouping. Dart-only with ChangeNotifier state management.
 
 ## Stack
