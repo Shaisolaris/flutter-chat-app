@@ -46,8 +46,6 @@ final Map<String, List<Message>> _messageHistory = {
 };
 
 class ChatProvider extends ChangeNotifier {
-  List<Map<String, dynamic>> get conversations => DemoChats.conversations;
-  List<Map<String, dynamic>> get currentMessages => DemoChats.messages;
   static const currentUserId = 'me';
 
   List<Conversation> get conversations => List.unmodifiable(_conversations);
